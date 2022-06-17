@@ -51,7 +51,7 @@
                     <div class="forms-inputs mb-4"> <span>TC Kimlik No</span> <input name="id" autocomplete="off" type="text" class="w-100"></div>
                     <div class="forms-inputs mb-4"> <span>Doğum Tarihi</span> <input name="birthday" autocomplete="off" type="date" class="w-100"></div>
                     <div class="forms-inputs mb-4"> <span>Spor dalı</span> <select name="branch" autocomplete="off" type="date" class="w-100">
-                        <option value="Fotbol">Futbol</option>
+                        <option value="Futbol">Futbol</option>
                         <option value="Basketbol">Basketbol</option>
                         <option value="Voleybol">Voleybol</option>
                         <option value="Hentbol">Hentbol</option>

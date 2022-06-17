@@ -126,10 +126,10 @@
                 <th scope="row">Spor Dalı</th>
                 <td><span id="branch"></span></td>
                 <td><select name="branch">
-                  <option value="football">Futbol</option>
-                  <option value="basketball">Basketbol</option>
-                  <option value="voleyball">Voleybol</option>
-                  <option value="handball">Hentbol</option>
+                  <option value="Futbol">Futbol</option>
+                  <option value="Basketbol">Basketbol</option>
+                  <option value="Voleybol">Voleybol</option>
+                  <option value="Hentbol">Hentbol</option>
                 </select></td>
                 <td><button type="submit" class="btn btn-primary ">Değiştir</button></td>
                 </form>
